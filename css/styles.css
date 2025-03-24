@@ -41,12 +41,20 @@ a {
     color: #2e2f42;
 }
 
+.header-menu-link:hover {
+    color: #404bbf;
+}
+
 .header-information-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02em;
     color: #434455;
+}
+
+.header-information-link:hover {
+    color: #404bbf;
 }
 
 .hero {
@@ -67,6 +75,10 @@ a {
     line-height: 1.5;
     letter-spacing: 0.04em;
     color: #fff;
+}
+.hero-btn:hover {
+    box-shadow: 0 4px 4px 0 rgba(0, 0, 0, 0.15);
+        background: #404bbf;
 }
 
 .feature-sublitle {
