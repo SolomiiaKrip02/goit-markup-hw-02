@@ -54,7 +54,7 @@ button{
 .address {
     font-style: normal;
 }
-.address-information-link {
+.information-link {
     font-weight: 400;
     font-size: 16px;
     line-height: 1.5;
@@ -62,11 +62,11 @@ button{
     color: #434455;
 }
 
-.address-information-link:hover {
+.information-link:hover {
     color: #404bbf;
 }
 
-.address-information-link:focus {
+.information-link:focus {
     color:#404bbf;
 }
 
