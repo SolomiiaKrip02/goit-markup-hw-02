@@ -36,7 +36,7 @@ button{
     color: #2e2f42;
 }
 
-.header-menu-link {
+.header-menu-link a {
     font-weight: 500;
     font-size: 16px;
     line-height: 1.5;
@@ -44,10 +44,10 @@ button{
     color: #2e2f42;
 } 
 
-.header-menu-link:hover {
+.header-menu-link:hover a {
     color: #404bbf;
 }
-.header-menu-link:focus {
+.header-menu-link:focus a {
     color: #404bbf;
 }
 
